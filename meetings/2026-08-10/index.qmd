@@ -1,0 +1,9 @@
+---
+title: "Developer kickoff"
+subtitle: "August 10, 2026"
+---
+
+## Materials
+
+- [Slide deck](posit-pilot-developer-kickoff.html)
+- [Meeting agenda](https://github.com/DWR-Open-Science/posit-tooling/blob/main/meetings/2026-08-10/2026-08-10-agenda.md)

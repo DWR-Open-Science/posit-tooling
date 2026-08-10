@@ -1,0 +1,20 @@
+---
+title: "Posit at DWR"
+---
+
+The California Department of Water Resources is piloting [Posit Workbench](https://posit.co/products/enterprise/workbench/) and [Posit Connect](https://posit.co/products/enterprise/connect/) to make modern data science development, computing, publishing, and sharing easier for DWR staff.
+
+## Pilot goals
+
+- Provide supported environments for R, Python, Jupyter, Positron, VS Code, and related tools
+- Make additional computing resources available for appropriate analytical workloads
+- Establish a practical path from development to published data products
+- Learn what governance, support, and operating practices are needed for sustainable use
+
+## Meetings
+
+- [Developer kickoff — August 10, 2026](meetings/2026-08-10/)
+
+## Learn more
+
+The source materials for this site are maintained in the [Posit at DWR GitHub repository](https://github.com/DWR-Open-Science/posit-tooling).

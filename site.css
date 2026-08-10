@@ -1,0 +1,10 @@
+.navbar {
+  min-height: 72px;
+}
+
+.navbar .navbar-logo {
+  height: 46px;
+  max-height: 46px;
+  margin-right: 0.8rem;
+  width: auto;
+}

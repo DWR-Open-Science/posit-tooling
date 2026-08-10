@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - meetings/index.qmd
+    - meetings/2026-08-10/index.qmd
+    - meetings/2026-08-10/posit-pilot-developer-kickoff.qmd
+
+website:
+  title: "Posit at DWR"
+  navbar:
+    logo: assets/dwr-logo-mark.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: meetings/index.qmd
+        text: Meetings
+
+format:
+  html:
+    theme: cosmo
+    css: site.css
+    toc: true

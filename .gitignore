@@ -1,3 +1,7 @@
 # Rendered Quarto meeting decks; commit their .qmd source instead.
 meetings/*/*.html
 meetings/*/*_files/
+/.quarto/
+/_site/
+
+**/*.quarto_ipynb
