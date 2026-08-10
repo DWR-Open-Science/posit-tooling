@@ -1,0 +1,15 @@
+project:
+  type: default
+
+format:
+  revealjs:
+    theme: [default, dwr.scss]
+    slide-number: c/t
+    navigation-mode: linear
+    transition: fade
+    background-transition: fade
+    footer: "California Department of Water Resources"
+    logo: assets/dwr-logo-mark.png
+    logo-alt: "California Department of Water Resources"
+    title-slide-attributes:
+      data-background-color: "#003B5C"
